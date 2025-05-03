@@ -1,5 +1,8 @@
 # CS Algorithms
 
 ## Introduction
-Computer science taught algorithm implemented using Python and Javascript (ES6 and above)
 
+Computer science taught algorithms implemented using:
+
+- Python
+- Javascript (ES6 and above)
